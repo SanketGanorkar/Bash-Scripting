@@ -1,7 +1,7 @@
 for((i= 1 ; i <=5 ; i+=2));
 do  
     # Automation 😎
-    # mkdir hello$i
+    mkdir hello$i
     # rmdir hello$i
 done
 
